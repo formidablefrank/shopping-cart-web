@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<tbl_user key_user="1" key_role="1" fld_username="admin" fld_password="admin"></tbl_user>
+	<tbl_user key_user="2" key_role="2" fld_username="cus1" fld_password="cus1"></tbl_user>
+	<tbl_user key_user="3" key_role="2" fld_username="cus2" fld_password="cus2"></tbl_user>
+</dataset>
